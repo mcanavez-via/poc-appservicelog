@@ -1,0 +1,4 @@
+C:\projetos\outros\b2b-poc\poc-log-AzureAppServices\MicrosoftLog-API\obj\Debug\netcoreapp3.1\b2b-poc-azureservice-log-API.AssemblyInfoInputs.cache
+C:\projetos\outros\b2b-poc\poc-log-AzureAppServices\MicrosoftLog-API\obj\Debug\netcoreapp3.1\b2b-poc-azureservice-log-API.AssemblyInfo.cs
+C:\projetos\outros\b2b-poc\poc-log-AzureAppServices\MicrosoftLog-API\obj\Debug\netcoreapp3.1\b2b-poc-azureservice-log-API.csproj.CoreCompileInputs.cache
+C:\projetos\outros\b2b-poc\poc-log-AzureAppServices\MicrosoftLog-API\obj\Debug\netcoreapp3.1\b2b-poc-azureservice-log-API.MvcApplicationPartsAssemblyInfo.cache
